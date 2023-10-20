@@ -1,0 +1,14 @@
+./JPEGImages/下載.jpg
+./JPEGImages/下載1.jpg
+./JPEGImages/下載10.jpg
+./JPEGImages/下載11.jpg
+./JPEGImages/下載12.jpg
+./JPEGImages/下載13.jpg
+./JPEGImages/下載14.jpg
+./JPEGImages/下載15.jpg
+./JPEGImages/下載3.jpg
+./JPEGImages/下載4.jpg
+./JPEGImages/下載5.jpg
+./JPEGImages/下載6.jpg
+./JPEGImages/下載8.jpg
+./JPEGImages/下載9.jpg
